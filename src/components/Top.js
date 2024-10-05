@@ -14,7 +14,7 @@ function Top() {
             <nav id="nav1">
         <div id="main">
             <div className="box box1">
-                <img src="logo1.png" alt="" width="100x" id="logo"/>
+                <img src="logo1.png" alt="logo" width="100x" id="logo"/>
             </div>
             <div className="flex2">
                 <div className="box1 same">About Us</div>

@@ -15,16 +15,16 @@ function Content() {
           </div>
         </div>
         <div id="sample1">
-          <img src="final.png" alt="" width="500px" height="500px" id="mainimg" />
+          <img src="final.png" alt="cake1" width="500px" height="500px" id="mainimg" />
         </div>
       </section>
    
       <div id="logos">
        
-        <img src="insta.png" width='60px'/>
-        <img src="fb.png" width='60px'/>
-        <img src="yt.png" width='60px'/>
-        <img src="linkedin.png" width='60px'/>
+        <img src="insta.png"alt="social media icons" width='60px'/>
+        <img src="fb.png" alt="social media icons"width='60px'/>
+        <img src="yt.png"alt="social media icons" width='60px'/>
+        <img src="linkedin.png" alt="social media icons"width='60px'/>
       </div>
     </>
   );
